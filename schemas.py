@@ -50,6 +50,7 @@ class Lead(BaseModel):
     interest: Literal[
         "US Tax Advice",
         "Thailand Tax Residency",
+        "Thailand Visa Assistance",
         "Banking Solutions",
         "Pension & Investments",
         "Health Insurance Quotes",
